@@ -1,0 +1,21 @@
+fever,cough,fatigue,headache,sneezing,sore_throat,body_pain,nausea,vomiting,diarrhea,rash,disease
+1,1,1,1,0,1,1,0,0,0,0,Flu-like illness
+1,1,1,0,0,1,1,0,0,0,0,Flu-like illness
+1,0,1,1,0,0,1,0,0,0,0,Flu-like illness
+1,1,1,1,0,0,1,0,0,0,0,Flu-like illness
+0,1,0,1,1,1,0,0,0,0,0,Common cold
+0,1,0,0,1,1,0,0,0,0,0,Common cold
+0,1,1,0,1,1,0,0,0,0,0,Common cold
+0,0,0,1,1,0,0,0,0,0,0,Common cold
+0,0,0,0,1,0,0,0,0,0,0,Allergy-like illness
+0,0,0,1,1,0,0,0,0,0,0,Allergy-like illness
+0,1,0,0,1,0,0,0,0,0,0,Allergy-like illness
+0,0,0,0,1,1,0,0,0,0,0,Allergy-like illness
+0,0,1,0,0,0,0,1,1,1,0,Gastrointestinal illness
+0,0,0,0,0,0,0,1,1,1,0,Gastrointestinal illness
+0,0,1,0,0,0,0,1,0,1,0,Gastrointestinal illness
+0,0,0,0,0,0,0,1,1,0,0,Gastrointestinal illness
+0,0,0,0,0,0,0,0,0,0,1,Rash-associated illness
+0,0,0,0,0,0,0,0,0,0,1,Rash-associated illness
+1,0,0,0,0,0,0,0,0,0,1,Rash-associated illness
+0,0,0,1,0,0,0,0,0,0,1,Rash-associated illness
